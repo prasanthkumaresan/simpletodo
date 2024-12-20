@@ -1,0 +1,19 @@
+.listContainer {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+.para {
+  color: #000000;
+  font-family: 'roboto';
+  font-weight: bold;
+  font-size: 25px;
+}
+.del {
+  color: #ff0b37;
+  border-color: #ff0b37;
+  border-radius: 4px;
+  height: 30px;
+  width: 90px;
+  align-self: center;
+}
